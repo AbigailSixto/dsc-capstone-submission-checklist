@@ -23,11 +23,11 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [X] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
 
-- [ ] Notebook includes a baseline model
+- [X] Notebook includes a baseline model
 - [ ] Notebook includes additional models built iteratively from the baseline model
 - [ ] Preferred model is described in...
   - [ ] Readme
